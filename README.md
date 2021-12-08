@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandre Ladeira
-- 👀 I’m interested in data. Data is 
+- 👀 I’m interested in data. Data is the past, the present and the future 
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on social projects of music
 - 📫 How to reach me: in my house... with my sons
